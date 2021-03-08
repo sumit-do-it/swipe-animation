@@ -64,7 +64,7 @@ const App: () => React$Node = () => {
                 Read the docs to discover what to do next:
               </Text>
             </View>
-            {/* <LearnMoreLinks /> */}
+            <LearnMoreLinks />
           </View>
         </ScrollView>
       </SafeAreaView>
